@@ -14,7 +14,7 @@ To use the Smart Dog Collar App, follow these steps:
 
 1. Clone the repository:
 
-    `git clone https://github.com/hiroto-kazama/SmartCollarApp054.git`
+    `git clone https://github.com/hiroto-kazama/SmartCollarApp0524.git`
   
 2. **Open the Project:** Navigate to the cloned repository on your local machine and open it in Android Studio.
 
